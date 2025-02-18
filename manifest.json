@@ -1,17 +1,15 @@
 {
   "main.css": "auto/main.css",
-  "main.js": "auto/main-89d0c977.js",
+  "main.js": "auto/main-d493073f.js",
+  "public/images/descript_1.jpg": "auto/public/images/descript_1.jpg",
   "public/images/frying-hero.png": "auto/public/images/frying-hero.png",
-  "public/images/hero-2.jpg": "auto/public/images/hero-2.jpg",
-  "public/images/hero.jpg": "auto/public/images/hero.jpg",
+  "public/images/desription_2.jpg": "auto/public/images/desription_2.jpg",
+  "public/images/description_3.jpg": "auto/public/images/description_3.jpg",
   "public/images/sending.png": "auto/public/images/sending.png",
-  "public/images/description_2.jpg": "auto/public/images/description_2.jpg",
   "public/images/delivery.png": "auto/public/images/delivery.png",
-  "public/images/description_1.jpg": "auto/public/images/description_1.jpg",
-  "public/images/size-saucepan.png": "auto/public/images/size-saucepan.png",
   "public/images/calling.png": "auto/public/images/calling.png",
+  "public/images/frying-size.png": "auto/public/images/frying-size.png",
   "public/favicon/apple-touch-icon.png": "auto/public/favicon/apple-touch-icon.png",
-  "public/images/size-cover.jpg": "auto/public/images/size-cover.jpg",
   "public/favicon/android-chrome-192x192.png": "auto/public/favicon/android-chrome-192x192.png",
   "index.html": "auto/index.html",
   "public/favicon/favicon.ico": "auto/public/favicon/favicon.ico",
@@ -31,5 +29,5 @@
   "public/images/separator.png": "auto/public/images/separator.png",
   "robots.txt": "auto/robots.txt",
   "main.css.map": "auto/main.css.map",
-  "main-89d0c977.js.map": "auto/main-89d0c977.js.map"
+  "main-d493073f.js.map": "auto/main-d493073f.js.map"
 }
