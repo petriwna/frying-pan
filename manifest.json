@@ -1,5 +1,6 @@
 {
-  "main.js": "auto/main-97c47ccb.js",
+  "main.css": "auto/main.css",
+  "main.js": "auto/main-6ba1b9f1.js",
   "public/images/frying-hero.png": "auto/public/images/frying-hero.png",
   "public/images/hero-2.jpg": "auto/public/images/hero-2.jpg",
   "public/images/hero.jpg": "auto/public/images/hero.jpg",
@@ -29,6 +30,6 @@
   "public/favicon/browserconfig.xml": "auto/public/favicon/browserconfig.xml",
   "public/images/separator.png": "auto/public/images/separator.png",
   "robots.txt": "auto/robots.txt",
-  "main-97c47ccb.js.map": "auto/main-97c47ccb.js.map",
-  "main.hot-update.js.map": "auto/main.6dd088e25fca3cfb9eba.hot-update.js.map"
+  "main.css.map": "auto/main.css.map",
+  "main-6ba1b9f1.js.map": "auto/main-6ba1b9f1.js.map"
 }
